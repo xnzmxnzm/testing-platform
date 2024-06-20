@@ -1,5 +1,9 @@
 这个测试平台是我根据youtube作者Steve Builds视频绘制的
 
+还有使用了大量voron系列打印机的打印件
+
+https://vorondesign.com/
+
 外观应该差不多~但是细节会略有不同
 
 具体视频地址在这里
@@ -11,6 +15,10 @@ https://www.youtube.com/watch?v=Y9YJPYNIlzY&t=2523s
 然后用了340mm和300mm长度的DIN电器导轨作为电源和主板的固定~
 
 螺丝若干~
+
+这里是我自己的视频
+
+https://www.youtube.com/watch?v=T2Vm79ChwJY
 
 就没什么了
 
